@@ -245,8 +245,9 @@ Expense added successfully with ID: 2
 Total spent in 3/2026: ₹370.0
 Budget: ₹5000.0
 ✔ You are within your budget.
+'''
 
---- '''
+--- 
 
 #🏆 Why This Project Stands Out
 
