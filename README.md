@@ -221,17 +221,13 @@ ExpenseTracker/
 # ▶ How to Run
 
 ## 1️⃣ Compile the Project
-
 Go inside `src` folder:
 
-```bash
 javac *.java
 
 2️⃣ Run the Program
 
 java Main
-
----
 
 ###🧪 Example Run (Demo)
 
@@ -245,11 +241,10 @@ Expense added successfully with ID: 2
 Total spent in 3/2026: ₹370.0
 Budget: ₹5000.0
 ✔ You are within your budget.
-```bash
 
---- 
+---
 
-#🏆 Why This Project Stands Out
+###🏆 Why This Project Stands Out
 
 Most student projects are:
 
@@ -270,7 +265,7 @@ This is exactly the type of project that demonstrates real Java skill.
 
 ---
 
-#🚀 Future Improvements
+###🚀 Future Improvements
 
 Planned upgrades include:
 
@@ -282,14 +277,14 @@ Database integration (MySQL)
 
 ---
 
-#📌 Resume Description (Recommended)
+###📌 Resume Description (Recommended)
 
 Smart Expense Tracker for Students (Core Java Project)
 Developed a menu-driven Java application to manage student expenses with category filtering, sorting, budget alerts, and monthly report export functionality. Implemented persistent storage using file handling and applied OOP principles for modular system design.
 
 ---
 
-#👤 Author
+###👤 Author
 
 Aryan Raj
 B.Tech — Artificial Intelligence & Machine Learning
@@ -297,7 +292,7 @@ Java & DSA Learner | VIT Bhopal University
 
 ---
 
-#🧾 Final Note
+###🧾 Final Note
 
 This project is not about making a fancy interface.
 It is about building a real system that solves a real problem using:
